@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+python-dotenv
+python-multipart
+openai
+sqlalchemy
+pydantic
+moviepy=1.0.3
+Pillow=9.5.0
+# For database support, you might need to add:
